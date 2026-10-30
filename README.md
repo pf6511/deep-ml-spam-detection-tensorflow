@@ -1,4 +1,4 @@
-# jedha-dts-ml-deep-att
+# deep-ml-att-spam-detection
 ML Deep learning - ATT Spam Detector
 
 # ATT
